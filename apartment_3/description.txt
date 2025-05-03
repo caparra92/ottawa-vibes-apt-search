@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 For April 1 - Large Furnished Master bedroom with its own Private bathroom. Available for the 1st of next month or earlier.
 
 Rent: $1050/month. Utilities included .
@@ -59,3 +60,6 @@ Address: 1332 Walkley Road, Ottawa
 Note: If the ad is visible, the room is still available. Please read fully before inquiring.
 
 - Street parking is readily available for free. Driveway parking is optional for an additional +70$ per, with snow removal and de-icing included.
+=======
+This is the description for apartment_3.
+>>>>>>> master

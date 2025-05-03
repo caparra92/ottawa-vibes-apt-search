@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Available for June 1, mid-June, or July 1 occupancy! 
 
  
@@ -43,3 +44,6 @@ Credit check (our cost) / proof of income / landlord reference (or co-signer) re
  
 
 First/last month rent required at lease signing.
+=======
+This is the description for apartment_2.
+>>>>>>> master

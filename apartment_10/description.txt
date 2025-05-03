@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 This is the description for apartment_10.
+=======
+This is the description for apartment_10.Spectacular 3 Bedroom Luxury Condo, 1300 SQFT Suite. Showcasing Soaring Ceilings, Floor To Ceiling Windows And A Spectacular Water View! Modern Kitchen Featuring Ultra High-End Subzero And Miele Stainless Steel Appliances. In-Suite Washer/Dryer. 2 Full Bathrooms. Spacious Living Space And Dining Area. Expansive Terrace Overlooking the Water. Unparalleled Amenities And An Unbeatable Location. Steps To Waterfront, Transit, Entertainment And Much More!
+Available May 1, 2025
+Included In the Rent Is 1 Underground Parking Spot, 1 Locker, and Internet.
+Please Make All Inquiries By Phone Call : 647-298-7199 (Mrs. Singh)
+>>>>>>> master
