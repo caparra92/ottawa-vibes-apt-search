@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+This is the description for apartment_9.
+=======
 FRENCH DESCRIPTION BELOW:
 
 **Corner unit with garage** Experience luxury living in this sublime 4 1/2 apartment located on the 50th floor of Victoria sur le Parc, offering breathtaking views of the river. The sunlit unit boasts abundant windows, all equipped with high-end motorized shades. The spacious living/dining area opens onto a balcony with a 180-degree unobstructed view. The master bedroom features a large walk-in closet and an en-suite bathroom.
@@ -35,3 +38,4 @@ CONDITIONS:
 - Respect de la déclaration de copropriété et des règlements de l’immeuble en tout temps
 - Frais d’emménagement et déménagement sont à la charge du locataire
 - Aucune sous-location n’est permise.
+>>>>>>> master

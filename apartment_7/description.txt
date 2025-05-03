@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+This is the description for apartment_7.
+=======
 Spring into your new home at 88 Beechwood! Move in before June 1st to receive 1 month of free rent.* 
 
 *Select suites only. Some conditions apply. Prices and specifications are subject to change without notice. Errors and omissions excepted.
@@ -72,3 +75,4 @@ Unlimited high-speed internet
 Location Details
 
 Set in the heart of the historic and eclectic Beechwood Village, this innovative, smart buliding with LEED Silver-certification offers spacious apartments and premium amenities, including 1VALET, Luxer One electronic parcel lockers, a yoga studio, and more. Located beside New Edinburgh and Lindenlea, in Ottawa's east end, and just minutes from downtown Ottawa, these apartments are ideally located in a well-connected, exceptionally walkable neighbourhood.
+>>>>>>> master
