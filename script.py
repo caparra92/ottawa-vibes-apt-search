@@ -1,13 +1,8 @@
 import os
 import platform
 
-# Detect the operating system and set the base directory
-if platform.system() == "Windows":
-    base_dir = r'd:\projects\vibe-code-hackaton'
-elif platform.system() == "Darwin":  # macOS
-    base_dir = '/Users/your_username/projects/vibe-code-hackaton'
-else:
-    raise OSError("Unsupported operating system")
+# Dynamically set the base directory to the script's location
+base_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Create 10 folders with 3 subfolders each
 for i in range(1, 11):
